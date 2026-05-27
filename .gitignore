@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# PAK files (jangan upload, terlalu besar & copyright)
+*.pak
+
+# Backup
+*.bak
+*.backup
+
+# Build/test output
+build/
+dist/
+*.zip
+*.7z
